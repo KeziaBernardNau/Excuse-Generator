@@ -16,7 +16,7 @@ let generateExcuse = () => {
   let pronoun = ["A", "The"];
   let subject = ["jogger", "racoon", "driver", "dog", "comedian", "pinecone"];
   let action = ["took my", "stole my", "hit my", "juggled my", "wet my"];
-  let possesion = ["phone", "shoe", "my nail", "laptop", "underwear"];
+  let possesion = ["phone", "shoe", "nail", "laptop", "underwear"];
   let where = [
     "in the gutter",
     "on my balcony",
