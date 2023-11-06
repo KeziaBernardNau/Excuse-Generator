@@ -21,7 +21,7 @@ let generateExcuse = () => {
     "in the gutter",
     "on my balcony",
     "in my driveway",
-    "in my kitchen"
+    "in my kitchen",
   ];
 
   let proIndx = Math.floor(Math.random() * pronoun.length);
