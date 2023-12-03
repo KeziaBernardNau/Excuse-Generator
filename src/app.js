@@ -15,8 +15,14 @@ window.onload = () => {
 let generateExcuse = () => {
   let pronoun = ["A", "The"];
   let subject = ["jogger", "racoon", "driver", "dog", "comedian", "pinecone"];
-  let action = ["took my", "stole my", "hit my", "juggled my", "wet my"];
-  let possesion = ["phone", "shoe", "my nail", "laptop", "underwear"];
+  let action = ["took", "stole", "hit", "juggled", "wet"];
+  let possesion = [
+    "my phone",
+    "my shoe",
+    "my nail",
+    "my laptop",
+    "my underwear"
+  ];
   let where = [
     "in the gutter",
     "on my balcony",
