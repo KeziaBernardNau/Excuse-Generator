@@ -21,13 +21,13 @@ let generateExcuse = () => {
     "my shoe",
     "my nail",
     "my laptop",
-    "my underwear"
+    "my underwear",
   ];
   let where = [
     "in the gutter",
     "on my balcony",
     "in my driveway",
-    "in my kitchen"
+    "in my kitchen",
   ];
 
   let proIndx = Math.floor(Math.random() * pronoun.length);
